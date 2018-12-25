@@ -1,0 +1,114 @@
+Defenders: Pidgeotto, Vulpix, Dewgong, Clefairy, Aerodactyl, Oddish
+Solution V1: Poliwrath, Vulpix, Scyther, Scyther, Lapras, Clefable
+Solution V2: Golem, Tauros, Nidoqueen, Snorlax, Diglett, Doduo
+Solution V3: Electrode, Snorlax, Vileplume, Kadabra, Psyduck, Machamp
+
+Defenders: Jolteon, Koffing, Clefairy, Exeggcute, Golem, Hypno
+Solution V1: Horsea, Nidorino, Moltres, Mankey, Gyarados, Tauros
+Solution V2: Muk, Moltres, Cloyster, Victreebel, Vaporeon, Lapras
+Solution V3: Golem, Golem, Gyarados, Snorlax, Porygon, Rattata
+
+Defenders: Arbok, Poliwrath, Sandshrew, Omastar, Lickitung, Venonat
+Solution V1: Slowbro, Charizard, Mr. Mime, Alakazam, Pikachu, Kingler
+Solution V2: Omanyte, Vileplume, Jolteon, Blastoise, Machamp, Lapras
+Solution V3: Slowbro, Exeggutor, Dragonite, Dragonite, Oddish, Rhyhorn
+
+Defenders: Kingler, Clefairy, Dewgong, Magmar, Seaking, Ivysaur
+Solution V1: Wigglytuff, Electrode, Nidorino, Golbat, Articuno, Hypno
+Solution V2: Machoke, Kabutops, Rapidash, Seadra, Vaporeon, Lapras
+Solution V3: Zapdos, Charmander, Arcanine, Jolteon, Machoke, Voltorb
+
+Defenders: Victreebel, Slowpoke, Nidoqueen, Bulbasaur, Doduo, Growlithe
+Solution V1: Aerodactyl, Eevee, Gyarados, Pidgey, Zapdos, Pikachu
+Solution V2: Ninetales, Vileplume, Nidoqueen, Snorlax, Charizard, Lapras
+Solution V3: Dragonite, Dragonite, Slowbro, Nidoran, Seaking, Onix
+
+Defenders: Marowak, Vileplume, Pidgey, Sandshrew, Machamp, Hypno
+Solution V1: Poliwhirl, Magmar, Slowpoke, Tentacruel, Victreebel, Gengar
+Solution V2: Dragonite, Articuno, Alakazam, Starmie, Dodrio, Tentacool
+Solution V3: Dragonite, Articuno, Wigglytuff, Dragonite, Marowak, Kadabra
+
+Defenders: Pikachu, Vaporeon, Poliwrath, Kadabra, Slowbro, Vulpix
+Solution V1: Mankey, Onix, Exeggutor, Ponyta, Kangaskhan, Zapdos
+Solution V2: Aerodactyl, Raichu, Golbat, Lickitung, Gengar, Aerodactyl
+Solution V3: Venusaur, Venusaur, Poliwag, Vileplume, Snorlax, Tentacruel
+
+Defenders: Golbat, Gengar, Onix, Weezing, Sandshrew, Kabutops
+Solution V1: Gyarados, Victreebel, Raticate, Rattata, Blastoise, Hypno
+Solution V2: Golduck, Snorlax, Moltres, Voltorb, Drowzee, Lapras
+Solution V3: Rhydon, Golem, Oddish, Golduck, Ivysaur, Gengar
+
+Defenders: Poliwhirl, Scyther, Dugtrio, Kabuto, Arcanine, Goldeen
+Solution V1: Lapras, Haunter, Kabuto, Kabuto, Victreebel, Rapidash
+Solution V2: Electrode, Articuno, Omastar, Arcanine, Arbok, Exeggcute
+Solution V3: Dragonite, Dragonite, Dragonite, Beedrill, Golem, Beedrill
+
+Defenders: Eevee, Jigglypuff, Golbat, Staryu, Diglett, Dragonair
+Solution V1: Poliwrath, Mr. Mime, Gengar, Dratini, Slowpoke, Spearow
+Solution V2: Doduo, Porygon, Omastar, Snorlax, Chansey, Slowpoke
+Solution V3: Dragonite, Dragonite, Kabutops, Tentacool, Eevee, Graveler
+
+Defenders: Pidgeot, Cubone, Parasect, Wigglytuff, Bellsprout, Koffing
+Solution V1: Poliwrath, Drowzee, Poliwag, Electrode, Staryu, Gyarados
+Solution V2: Doduo, Kabutops, Omastar, Tauros, Machamp, Lapras
+Solution V3: Dragonite, Dragonite, Moltres, Gyarados, Koffing, Persian
+
+Defenders: Growlithe, Vileplume, Grimer, Golem, Rhydon, Diglett
+Solution V1: Muk, Gloom, Vileplume, Raticate, Hitmonlee, Spearow
+Solution V2: Moltres, Venusaur, Arbok, Dragonite, Charizard, Lapras
+Solution V3: Dragonite, Gyarados, Vaporeon, Exeggutor, Cloyster, Rhyhorn
+
+Defenders: Pidgey, Poliwhirl, Dewgong, Rhydon, Jigglypuff, Clefable
+---------- METRIC ----------
+00. Total time: 2.84s        Average time: 0.00s        States evaluated: 1000
+01. Total time: 2.74s        Average time: 0.00s        States evaluated: 1000
+02. Total time: 3.06s        Average time: 0.00s        States evaluated: 1000
+03. Total time: 2.90s        Average time: 0.00s        States evaluated: 1000
+04. Total time: 2.81s        Average time: 0.00s        States evaluated: 1000
+05. Total time: 3.16s        Average time: 0.00s        States evaluated: 1000
+06. Total time: 2.78s        Average time: 0.00s        States evaluated: 1000
+07. Total time: 2.68s        Average time: 0.00s        States evaluated: 1000
+08. Total time: 2.95s        Average time: 0.00s        States evaluated: 1000
+09. Total time: 2.88s        Average time: 0.00s        States evaluated: 1000
+10. Total time: 2.78s        Average time: 0.00s        States evaluated: 1000
+11. Total time: 3.05s        Average time: 0.00s        States evaluated: 1000
+12. Total time: 2.82s        Average time: 0.00s        States evaluated: 1000
+13. Total time: 2.75s        Average time: 0.00s        States evaluated: 1000
+14. Total time: 3.02s        Average time: 0.00s        States evaluated: 1000
+15. Total time: 2.81s        Average time: 0.00s        States evaluated: 1000
+16. Total time: 2.72s        Average time: 0.00s        States evaluated: 1000
+17. Total time: 2.98s        Average time: 0.00s        States evaluated: 1000
+18. Total time: 2.61s        Average time: 0.00s        States evaluated: 1000
+19. Total time: 2.52s        Average time: 0.00s        States evaluated: 1000
+20. Total time: 2.74s        Average time: 0.00s        States evaluated: 1000
+21. Total time: 2.87s        Average time: 0.00s        States evaluated: 1000
+22. Total time: 2.76s        Average time: 0.00s        States evaluated: 1000
+23. Total time: 3.05s        Average time: 0.00s        States evaluated: 1000
+24. Total time: 2.77s        Average time: 0.00s        States evaluated: 1000
+25. Total time: 2.68s        Average time: 0.00s        States evaluated: 1000
+26. Total time: 2.90s        Average time: 0.00s        States evaluated: 1000
+27. Total time: 2.40s        Average time: 0.00s        States evaluated: 1000
+28. Total time: 2.31s        Average time: 0.00s        States evaluated: 1000
+29. Total time: 2.56s        Average time: 0.00s        States evaluated: 1000
+30. Total time: 2.73s        Average time: 0.00s        States evaluated: 1000
+31. Total time: 2.67s        Average time: 0.00s        States evaluated: 1000
+32. Total time: 2.95s        Average time: 0.00s        States evaluated: 1000
+33. Total time: 2.75s        Average time: 0.00s        States evaluated: 1000
+34. Total time: 2.67s        Average time: 0.00s        States evaluated: 1000
+35. Total time: 2.90s        Average time: 0.00s        States evaluated: 1000
+36. Total time: 2.91s        Average time: 0.00s        States evaluated: 1000
+37. Total time: 2.85s        Average time: 0.00s        States evaluated: 1000
+38. Total time: 1.17s        Average time: 0.00s        States evaluated: 406
+----------------------------
+Pidgeotto, Vulpix, Dewgong, Clefairy, Aerodactyl, Oddish, Poliwrath, Vulpix, Scyther, Scyther, Lapras, Clefable, Golem, Tauros, Nidoqueen, Snorlax, Diglett, Doduo, Electrode, Snorlax, Vileplume, Kadabra, Psyduck, Machamp
+Jolteon, Koffing, Clefairy, Exeggcute, Golem, Hypno, Horsea, Nidorino, Moltres, Mankey, Gyarados, Tauros, Muk, Moltres, Cloyster, Victreebel, Vaporeon, Lapras, Golem, Golem, Gyarados, Snorlax, Porygon, Rattata
+Arbok, Poliwrath, Sandshrew, Omastar, Lickitung, Venonat, Slowbro, Charizard, Mr. Mime, Alakazam, Pikachu, Kingler, Omanyte, Vileplume, Jolteon, Blastoise, Machamp, Lapras, Slowbro, Exeggutor, Dragonite, Dragonite, Oddish, Rhyhorn
+Kingler, Clefairy, Dewgong, Magmar, Seaking, Ivysaur, Wigglytuff, Electrode, Nidorino, Golbat, Articuno, Hypno, Machoke, Kabutops, Rapidash, Seadra, Vaporeon, Lapras, Zapdos, Charmander, Arcanine, Jolteon, Machoke, Voltorb
+Victreebel, Slowpoke, Nidoqueen, Bulbasaur, Doduo, Growlithe, Aerodactyl, Eevee, Gyarados, Pidgey, Zapdos, Pikachu, Ninetales, Vileplume, Nidoqueen, Snorlax, Charizard, Lapras, Dragonite, Dragonite, Slowbro, Nidoran, Seaking, Onix
+Marowak, Vileplume, Pidgey, Sandshrew, Machamp, Hypno, Poliwhirl, Magmar, Slowpoke, Tentacruel, Victreebel, Gengar, Dragonite, Articuno, Alakazam, Starmie, Dodrio, Tentacool, Dragonite, Articuno, Wigglytuff, Dragonite, Marowak, Kadabra
+Pikachu, Vaporeon, Poliwrath, Kadabra, Slowbro, Vulpix, Mankey, Onix, Exeggutor, Ponyta, Kangaskhan, Zapdos, Aerodactyl, Raichu, Golbat, Lickitung, Gengar, Aerodactyl, Venusaur, Venusaur, Poliwag, Vileplume, Snorlax, Tentacruel
+Golbat, Gengar, Onix, Weezing, Sandshrew, Kabutops, Gyarados, Victreebel, Raticate, Rattata, Blastoise, Hypno, Golduck, Snorlax, Moltres, Voltorb, Drowzee, Lapras, Rhydon, Golem, Oddish, Golduck, Ivysaur, Gengar
+Poliwhirl, Scyther, Dugtrio, Kabuto, Arcanine, Goldeen, Lapras, Haunter, Kabuto, Kabuto, Victreebel, Rapidash, Electrode, Articuno, Omastar, Arcanine, Arbok, Exeggcute, Dragonite, Dragonite, Dragonite, Beedrill, Golem, Beedrill
+Eevee, Jigglypuff, Golbat, Staryu, Diglett, Dragonair, Poliwrath, Mr. Mime, Gengar, Dratini, Slowpoke, Spearow, Doduo, Porygon, Omastar, Snorlax, Chansey, Slowpoke, Dragonite, Dragonite, Kabutops, Tentacool, Eevee, Graveler
+Pidgeot, Cubone, Parasect, Wigglytuff, Bellsprout, Koffing, Poliwrath, Drowzee, Poliwag, Electrode, Staryu, Gyarados, Doduo, Kabutops, Omastar, Tauros, Machamp, Lapras, Dragonite, Dragonite, Moltres, Gyarados, Koffing, Persian
+Growlithe, Vileplume, Grimer, Golem, Rhydon, Diglett, Muk, Gloom, Vileplume, Raticate, Hitmonlee, Spearow, Moltres, Venusaur, Arbok, Dragonite, Charizard, Lapras, Dragonite, Gyarados, Vaporeon, Exeggutor, Cloyster, Rhyhorn

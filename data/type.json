@@ -1,0 +1,1388 @@
+[
+    {
+        "id": "POKEMON_TYPE_BUG", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 0.714
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_DARK", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 0.714
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_DRAGON", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 0.51
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_ELECTRIC", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 0.51
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_FAIRY", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_FIGHTING", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 0.51
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 0.714
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_FIRE", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_FLYING", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_GHOST", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 0.51
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_GRASS", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_GROUND", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 0.51
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_ICE", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_NORMAL", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 0.51
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_POISON", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.51
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1.4
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_PSYCHIC", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 0.51
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_ROCK", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_STEEL", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1.4
+            }
+        ]
+    }, 
+    {
+        "id": "POKEMON_TYPE_WATER", 
+        "damage": [
+            {
+                "id": "POKEMON_TYPE_NORMAL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIGHTING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FLYING", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_POISON", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GROUND", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_ROCK", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_BUG", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_GHOST", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_STEEL", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FIRE", 
+                "multiplier": 1.4
+            }, 
+            {
+                "id": "POKEMON_TYPE_WATER", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_GRASS", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_ELECTRIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_PSYCHIC", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_ICE", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_DRAGON", 
+                "multiplier": 0.714
+            }, 
+            {
+                "id": "POKEMON_TYPE_DARK", 
+                "multiplier": 1
+            }, 
+            {
+                "id": "POKEMON_TYPE_FAIRY", 
+                "multiplier": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,3066 @@
+[
+    {
+        "dex": 1, 
+        "stats": {
+            "base_stamina": 128, 
+            "base_defense": 111, 
+            "base_attack": 118
+        }, 
+        "name": "Bulbasaur", 
+        "charge_moves": [
+            "SLUDGE_BOMB", 
+            "SEED_BOMB", 
+            "POWER_WHIP"
+        ], 
+        "quick_moves": [
+            "VINE_WHIP_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 2, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 143, 
+            "base_attack": 151
+        }, 
+        "name": "Ivysaur", 
+        "charge_moves": [
+            "SLUDGE_BOMB", 
+            "SOLAR_BEAM", 
+            "POWER_WHIP"
+        ], 
+        "quick_moves": [
+            "RAZOR_LEAF_FAST", 
+            "VINE_WHIP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 3, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 189, 
+            "base_attack": 198
+        }, 
+        "name": "Venusaur", 
+        "charge_moves": [
+            "SLUDGE_BOMB", 
+            "PETAL_BLIZZARD", 
+            "SOLAR_BEAM"
+        ], 
+        "quick_moves": [
+            "RAZOR_LEAF_FAST", 
+            "VINE_WHIP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 4, 
+        "stats": {
+            "base_stamina": 118, 
+            "base_defense": 93, 
+            "base_attack": 116
+        }, 
+        "name": "Charmander", 
+        "charge_moves": [
+            "FLAME_CHARGE", 
+            "FLAME_BURST", 
+            "FLAMETHROWER"
+        ], 
+        "quick_moves": [
+            "EMBER_FAST", 
+            "SCRATCH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 5, 
+        "stats": {
+            "base_stamina": 151, 
+            "base_defense": 126, 
+            "base_attack": 158
+        }, 
+        "name": "Charmeleon", 
+        "charge_moves": [
+            "FIRE_PUNCH", 
+            "FLAME_BURST", 
+            "FLAMETHROWER"
+        ], 
+        "quick_moves": [
+            "EMBER_FAST", 
+            "FIRE_FANG_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 6, 
+        "stats": {
+            "base_stamina": 186, 
+            "base_defense": 173, 
+            "base_attack": 223
+        }, 
+        "name": "Charizard", 
+        "charge_moves": [
+            "FIRE_BLAST", 
+            "DRAGON_CLAW", 
+            "OVERHEAT"
+        ], 
+        "quick_moves": [
+            "FIRE_SPIN_FAST", 
+            "AIR_SLASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 7, 
+        "stats": {
+            "base_stamina": 127, 
+            "base_defense": 121, 
+            "base_attack": 94
+        }, 
+        "name": "Squirtle", 
+        "charge_moves": [
+            "AQUA_JET", 
+            "AQUA_TAIL", 
+            "WATER_PULSE"
+        ], 
+        "quick_moves": [
+            "BUBBLE_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 8, 
+        "stats": {
+            "base_stamina": 153, 
+            "base_defense": 155, 
+            "base_attack": 126
+        }, 
+        "name": "Wartortle", 
+        "charge_moves": [
+            "AQUA_JET", 
+            "ICE_BEAM", 
+            "HYDRO_PUMP"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 9, 
+        "stats": {
+            "base_stamina": 188, 
+            "base_defense": 207, 
+            "base_attack": 171
+        }, 
+        "name": "Blastoise", 
+        "charge_moves": [
+            "FLASH_CANNON", 
+            "ICE_BEAM", 
+            "HYDRO_PUMP"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 12, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 137, 
+            "base_attack": 167
+        }, 
+        "name": "Butterfree", 
+        "charge_moves": [
+            "BUG_BUZZ", 
+            "PSYCHIC", 
+            "SIGNAL_BEAM"
+        ], 
+        "quick_moves": [
+            "STRUGGLE_BUG_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 15, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 130, 
+            "base_attack": 169
+        }, 
+        "name": "Beedrill", 
+        "charge_moves": [
+            "SLUDGE_BOMB", 
+            "AERIAL_ACE", 
+            "X_SCISSOR"
+        ], 
+        "quick_moves": [
+            "INFESTATION_FAST", 
+            "POISON_JAB_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 16, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 73, 
+            "base_attack": 85
+        }, 
+        "name": "Pidgey", 
+        "charge_moves": [
+            "TWISTER", 
+            "AERIAL_ACE", 
+            "AIR_CUTTER"
+        ], 
+        "quick_moves": [
+            "QUICK_ATTACK_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 17, 
+        "stats": {
+            "base_stamina": 160, 
+            "base_defense": 105, 
+            "base_attack": 117
+        }, 
+        "name": "Pidgeotto", 
+        "charge_moves": [
+            "TWISTER", 
+            "AERIAL_ACE", 
+            "AIR_CUTTER"
+        ], 
+        "quick_moves": [
+            "WING_ATTACK_FAST", 
+            "STEEL_WING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 18, 
+        "stats": {
+            "base_stamina": 195, 
+            "base_defense": 154, 
+            "base_attack": 166
+        }, 
+        "name": "Pidgeot", 
+        "charge_moves": [
+            "HURRICANE", 
+            "AERIAL_ACE", 
+            "BRAVE_BIRD"
+        ], 
+        "quick_moves": [
+            "AIR_SLASH_FAST", 
+            "STEEL_WING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 19, 
+        "stats": {
+            "base_stamina": 102, 
+            "base_defense": 70, 
+            "base_attack": 103
+        }, 
+        "name": "Rattata", 
+        "charge_moves": [
+            "DIG", 
+            "HYPER_FANG", 
+            "BODY_SLAM"
+        ], 
+        "quick_moves": [
+            "TACKLE_FAST", 
+            "QUICK_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 20, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 139, 
+            "base_attack": 161
+        }, 
+        "name": "Raticate", 
+        "charge_moves": [
+            "DIG", 
+            "HYPER_FANG", 
+            "HYPER_BEAM"
+        ], 
+        "quick_moves": [
+            "BITE_FAST", 
+            "QUICK_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 21, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 60, 
+            "base_attack": 112
+        }, 
+        "name": "Spearow", 
+        "charge_moves": [
+            "AERIAL_ACE", 
+            "DRILL_PECK", 
+            "SKY_ATTACK"
+        ], 
+        "quick_moves": [
+            "PECK_FAST", 
+            "QUICK_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 22, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 133, 
+            "base_attack": 182
+        }, 
+        "name": "Fearow", 
+        "charge_moves": [
+            "AERIAL_ACE", 
+            "DRILL_RUN", 
+            "SKY_ATTACK"
+        ], 
+        "quick_moves": [
+            "PECK_FAST", 
+            "STEEL_WING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 23, 
+        "stats": {
+            "base_stamina": 111, 
+            "base_defense": 97, 
+            "base_attack": 110
+        }, 
+        "name": "Ekans", 
+        "charge_moves": [
+            "WRAP", 
+            "POISON_FANG", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "POISON_STING_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 24, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 153, 
+            "base_attack": 167
+        }, 
+        "name": "Arbok", 
+        "charge_moves": [
+            "DARK_PULSE", 
+            "SLUDGE_WAVE", 
+            "GUNK_SHOT"
+        ], 
+        "quick_moves": [
+            "BITE_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 25, 
+        "stats": {
+            "base_stamina": 111, 
+            "base_defense": 96, 
+            "base_attack": 112
+        }, 
+        "name": "Pikachu", 
+        "charge_moves": [
+            "DISCHARGE", 
+            "THUNDERBOLT", 
+            "WILD_CHARGE"
+        ], 
+        "quick_moves": [
+            "THUNDER_SHOCK_FAST", 
+            "QUICK_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC"
+        ]
+    }, 
+    {
+        "dex": 26, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 151, 
+            "base_attack": 193
+        }, 
+        "name": "Raichu", 
+        "charge_moves": [
+            "BRICK_BREAK", 
+            "THUNDER_PUNCH", 
+            "WILD_CHARGE"
+        ], 
+        "quick_moves": [
+            "VOLT_SWITCH_FAST", 
+            "SPARK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC"
+        ]
+    }, 
+    {
+        "dex": 27, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 120, 
+            "base_attack": 126
+        }, 
+        "name": "Sandshrew", 
+        "charge_moves": [
+            "DIG", 
+            "ROCK_SLIDE", 
+            "SAND_TOMB"
+        ], 
+        "quick_moves": [
+            "SCRATCH_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 28, 
+        "stats": {
+            "base_stamina": 181, 
+            "base_defense": 175, 
+            "base_attack": 182
+        }, 
+        "name": "Sandslash", 
+        "charge_moves": [
+            "EARTHQUAKE", 
+            "ROCK_TOMB", 
+            "BULLDOZE"
+        ], 
+        "quick_moves": [
+            "METAL_CLAW_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 29, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 89, 
+            "base_attack": 86
+        }, 
+        "name": "Nidoran", 
+        "charge_moves": [
+            "POISON_FANG", 
+            "BODY_SLAM", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "BITE_FAST", 
+            "POISON_STING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 30, 
+        "stats": {
+            "base_stamina": 172, 
+            "base_defense": 120, 
+            "base_attack": 117
+        }, 
+        "name": "Nidorina", 
+        "charge_moves": [
+            "POISON_FANG", 
+            "DIG", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "BITE_FAST", 
+            "POISON_STING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 31, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 173, 
+            "base_attack": 180
+        }, 
+        "name": "Nidoqueen", 
+        "charge_moves": [
+            "EARTHQUAKE", 
+            "SLUDGE_WAVE", 
+            "STONE_EDGE"
+        ], 
+        "quick_moves": [
+            "POISON_JAB_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON", 
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 32, 
+        "stats": {
+            "base_stamina": 130, 
+            "base_defense": 76, 
+            "base_attack": 105
+        }, 
+        "name": "Nidoran", 
+        "charge_moves": [
+            "HORN_ATTACK", 
+            "BODY_SLAM", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "PECK_FAST", 
+            "POISON_STING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 33, 
+        "stats": {
+            "base_stamina": 156, 
+            "base_defense": 111, 
+            "base_attack": 137
+        }, 
+        "name": "Nidorino", 
+        "charge_moves": [
+            "HORN_ATTACK", 
+            "DIG", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "POISON_JAB_FAST", 
+            "POISON_STING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 34, 
+        "stats": {
+            "base_stamina": 191, 
+            "base_defense": 156, 
+            "base_attack": 204
+        }, 
+        "name": "Nidoking", 
+        "charge_moves": [
+            "EARTHQUAKE", 
+            "SLUDGE_WAVE", 
+            "MEGAHORN"
+        ], 
+        "quick_moves": [
+            "POISON_JAB_FAST", 
+            "IRON_TAIL_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON", 
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 35, 
+        "stats": {
+            "base_stamina": 172, 
+            "base_defense": 108, 
+            "base_attack": 107
+        }, 
+        "name": "Clefairy", 
+        "charge_moves": [
+            "DISARMING_VOICE", 
+            "BODY_SLAM", 
+            "MOONBLAST"
+        ], 
+        "quick_moves": [
+            "POUND_FAST", 
+            "ZEN_HEADBUTT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FAIRY"
+        ]
+    }, 
+    {
+        "dex": 36, 
+        "stats": {
+            "base_stamina": 216, 
+            "base_defense": 162, 
+            "base_attack": 178
+        }, 
+        "name": "Clefable", 
+        "charge_moves": [
+            "DAZZLING_GLEAM", 
+            "PSYCHIC", 
+            "MOONBLAST"
+        ], 
+        "quick_moves": [
+            "CHARGE_BEAM_FAST", 
+            "ZEN_HEADBUTT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FAIRY"
+        ]
+    }, 
+    {
+        "dex": 37, 
+        "stats": {
+            "base_stamina": 116, 
+            "base_defense": 109, 
+            "base_attack": 96
+        }, 
+        "name": "Vulpix", 
+        "charge_moves": [
+            "BODY_SLAM", 
+            "FLAMETHROWER", 
+            "FLAME_CHARGE"
+        ], 
+        "quick_moves": [
+            "QUICK_ATTACK_FAST", 
+            "EMBER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 38, 
+        "stats": {
+            "base_stamina": 177, 
+            "base_defense": 190, 
+            "base_attack": 169
+        }, 
+        "name": "Ninetales", 
+        "charge_moves": [
+            "HEAT_WAVE", 
+            "OVERHEAT", 
+            "SOLAR_BEAM"
+        ], 
+        "quick_moves": [
+            "FEINT_ATTACK_FAST", 
+            "FIRE_SPIN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 39, 
+        "stats": {
+            "base_stamina": 251, 
+            "base_defense": 41, 
+            "base_attack": 80
+        }, 
+        "name": "Jigglypuff", 
+        "charge_moves": [
+            "DISARMING_VOICE", 
+            "GYRO_BALL", 
+            "DAZZLING_GLEAM"
+        ], 
+        "quick_moves": [
+            "POUND_FAST", 
+            "FEINT_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FAIRY"
+        ]
+    }, 
+    {
+        "dex": 40, 
+        "stats": {
+            "base_stamina": 295, 
+            "base_defense": 90, 
+            "base_attack": 156
+        }, 
+        "name": "Wigglytuff", 
+        "charge_moves": [
+            "DAZZLING_GLEAM", 
+            "HYPER_BEAM", 
+            "PLAY_ROUGH"
+        ], 
+        "quick_moves": [
+            "POUND_FAST", 
+            "FEINT_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FAIRY"
+        ]
+    }, 
+    {
+        "dex": 41, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 73, 
+            "base_attack": 83
+        }, 
+        "name": "Zubat", 
+        "charge_moves": [
+            "POISON_FANG", 
+            "AIR_CUTTER", 
+            "SWIFT"
+        ], 
+        "quick_moves": [
+            "QUICK_ATTACK_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 42, 
+        "stats": {
+            "base_stamina": 181, 
+            "base_defense": 150, 
+            "base_attack": 161
+        }, 
+        "name": "Golbat", 
+        "charge_moves": [
+            "SHADOW_BALL", 
+            "AIR_CUTTER", 
+            "POISON_FANG"
+        ], 
+        "quick_moves": [
+            "WING_ATTACK_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 43, 
+        "stats": {
+            "base_stamina": 128, 
+            "base_defense": 112, 
+            "base_attack": 131
+        }, 
+        "name": "Oddish", 
+        "charge_moves": [
+            "SEED_BOMB", 
+            "SLUDGE_BOMB", 
+            "MOONBLAST"
+        ], 
+        "quick_moves": [
+            "RAZOR_LEAF_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 44, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 136, 
+            "base_attack": 153
+        }, 
+        "name": "Gloom", 
+        "charge_moves": [
+            "PETAL_BLIZZARD", 
+            "SLUDGE_BOMB", 
+            "MOONBLAST"
+        ], 
+        "quick_moves": [
+            "RAZOR_LEAF_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 45, 
+        "stats": {
+            "base_stamina": 181, 
+            "base_defense": 167, 
+            "base_attack": 202
+        }, 
+        "name": "Vileplume", 
+        "charge_moves": [
+            "PETAL_BLIZZARD", 
+            "SOLAR_BEAM", 
+            "MOONBLAST"
+        ], 
+        "quick_moves": [
+            "RAZOR_LEAF_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 46, 
+        "stats": {
+            "base_stamina": 111, 
+            "base_defense": 99, 
+            "base_attack": 121
+        }, 
+        "name": "Paras", 
+        "charge_moves": [
+            "CROSS_POISON", 
+            "X_SCISSOR", 
+            "SEED_BOMB"
+        ], 
+        "quick_moves": [
+            "SCRATCH_FAST", 
+            "BUG_BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG", 
+            "POKEMON_TYPE_GRASS"
+        ]
+    }, 
+    {
+        "dex": 47, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 146, 
+            "base_attack": 165
+        }, 
+        "name": "Parasect", 
+        "charge_moves": [
+            "CROSS_POISON", 
+            "X_SCISSOR", 
+            "SOLAR_BEAM"
+        ], 
+        "quick_moves": [
+            "STRUGGLE_BUG_FAST", 
+            "FURY_CUTTER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG", 
+            "POKEMON_TYPE_GRASS"
+        ]
+    }, 
+    {
+        "dex": 48, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 100, 
+            "base_attack": 100
+        }, 
+        "name": "Venonat", 
+        "charge_moves": [
+            "POISON_FANG", 
+            "PSYBEAM", 
+            "SIGNAL_BEAM"
+        ], 
+        "quick_moves": [
+            "BUG_BITE_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 49, 
+        "stats": {
+            "base_stamina": 172, 
+            "base_defense": 143, 
+            "base_attack": 179
+        }, 
+        "name": "Venomoth", 
+        "charge_moves": [
+            "SILVER_WIND", 
+            "PSYCHIC", 
+            "BUG_BUZZ"
+        ], 
+        "quick_moves": [
+            "INFESTATION_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 50, 
+        "stats": {
+            "base_stamina": 67, 
+            "base_defense": 78, 
+            "base_attack": 109
+        }, 
+        "name": "Diglett", 
+        "charge_moves": [
+            "DIG", 
+            "MUD_BOMB", 
+            "ROCK_TOMB"
+        ], 
+        "quick_moves": [
+            "MUD_SLAP_FAST", 
+            "SCRATCH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 51, 
+        "stats": {
+            "base_stamina": 111, 
+            "base_defense": 134, 
+            "base_attack": 167
+        }, 
+        "name": "Dugtrio", 
+        "charge_moves": [
+            "EARTHQUAKE", 
+            "MUD_BOMB", 
+            "STONE_EDGE"
+        ], 
+        "quick_moves": [
+            "SUCKER_PUNCH_FAST", 
+            "MUD_SLAP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 52, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 78, 
+            "base_attack": 92
+        }, 
+        "name": "Meowth", 
+        "charge_moves": [
+            "NIGHT_SLASH", 
+            "DARK_PULSE", 
+            "FOUL_PLAY"
+        ], 
+        "quick_moves": [
+            "SCRATCH_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 53, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 136, 
+            "base_attack": 150
+        }, 
+        "name": "Persian", 
+        "charge_moves": [
+            "FOUL_PLAY", 
+            "POWER_GEM", 
+            "PLAY_ROUGH"
+        ], 
+        "quick_moves": [
+            "SCRATCH_FAST", 
+            "FEINT_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 54, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 95, 
+            "base_attack": 122
+        }, 
+        "name": "Psyduck", 
+        "charge_moves": [
+            "PSYBEAM", 
+            "AQUA_TAIL", 
+            "CROSS_CHOP"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "ZEN_HEADBUTT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 55, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 162, 
+            "base_attack": 191
+        }, 
+        "name": "Golduck", 
+        "charge_moves": [
+            "PSYCHIC", 
+            "HYDRO_PUMP", 
+            "ICE_BEAM"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 56, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 82, 
+            "base_attack": 148
+        }, 
+        "name": "Mankey", 
+        "charge_moves": [
+            "CROSS_CHOP", 
+            "LOW_SWEEP", 
+            "BRICK_BREAK"
+        ], 
+        "quick_moves": [
+            "KARATE_CHOP_FAST", 
+            "SCRATCH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 57, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 138, 
+            "base_attack": 207
+        }, 
+        "name": "Primeape", 
+        "charge_moves": [
+            "CLOSE_COMBAT", 
+            "LOW_SWEEP", 
+            "NIGHT_SLASH"
+        ], 
+        "quick_moves": [
+            "LOW_KICK_FAST", 
+            "COUNTER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 58, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 93, 
+            "base_attack": 136
+        }, 
+        "name": "Growlithe", 
+        "charge_moves": [
+            "FLAME_WHEEL", 
+            "BODY_SLAM", 
+            "FLAMETHROWER"
+        ], 
+        "quick_moves": [
+            "EMBER_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 59, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 166, 
+            "base_attack": 227
+        }, 
+        "name": "Arcanine", 
+        "charge_moves": [
+            "FIRE_BLAST", 
+            "WILD_CHARGE", 
+            "CRUNCH"
+        ], 
+        "quick_moves": [
+            "FIRE_FANG_FAST", 
+            "SNARL_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 60, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 82, 
+            "base_attack": 101
+        }, 
+        "name": "Poliwag", 
+        "charge_moves": [
+            "BUBBLE_BEAM", 
+            "MUD_BOMB", 
+            "BODY_SLAM"
+        ], 
+        "quick_moves": [
+            "BUBBLE_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 61, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 123, 
+            "base_attack": 130
+        }, 
+        "name": "Poliwhirl", 
+        "charge_moves": [
+            "WATER_PULSE", 
+            "MUD_BOMB", 
+            "BUBBLE_BEAM"
+        ], 
+        "quick_moves": [
+            "BUBBLE_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 62, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 184, 
+            "base_attack": 182
+        }, 
+        "name": "Poliwrath", 
+        "charge_moves": [
+            "HYDRO_PUMP", 
+            "DYNAMIC_PUNCH", 
+            "ICE_PUNCH"
+        ], 
+        "quick_moves": [
+            "BUBBLE_FAST", 
+            "ROCK_SMASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 63, 
+        "stats": {
+            "base_stamina": 93, 
+            "base_defense": 82, 
+            "base_attack": 195
+        }, 
+        "name": "Abra", 
+        "charge_moves": [
+            "PSYSHOCK", 
+            "SIGNAL_BEAM", 
+            "SHADOW_BALL"
+        ], 
+        "quick_moves": [
+            "ZEN_HEADBUTT_FAST", 
+            "CHARGE_BEAM_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 64, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 117, 
+            "base_attack": 232
+        }, 
+        "name": "Kadabra", 
+        "charge_moves": [
+            "PSYBEAM", 
+            "DAZZLING_GLEAM", 
+            "SHADOW_BALL"
+        ], 
+        "quick_moves": [
+            "PSYCHO_CUT_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 65, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 167, 
+            "base_attack": 271
+        }, 
+        "name": "Alakazam", 
+        "charge_moves": [
+            "FUTURESIGHT", 
+            "FOCUS_BLAST", 
+            "SHADOW_BALL"
+        ], 
+        "quick_moves": [
+            "PSYCHO_CUT_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 66, 
+        "stats": {
+            "base_stamina": 172, 
+            "base_defense": 82, 
+            "base_attack": 137
+        }, 
+        "name": "Machop", 
+        "charge_moves": [
+            "LOW_SWEEP", 
+            "BRICK_BREAK", 
+            "CROSS_CHOP"
+        ], 
+        "quick_moves": [
+            "ROCK_SMASH_FAST", 
+            "KARATE_CHOP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 67, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 125, 
+            "base_attack": 177
+        }, 
+        "name": "Machoke", 
+        "charge_moves": [
+            "SUBMISSION", 
+            "BRICK_BREAK", 
+            "DYNAMIC_PUNCH"
+        ], 
+        "quick_moves": [
+            "LOW_KICK_FAST", 
+            "KARATE_CHOP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 68, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 159, 
+            "base_attack": 234
+        }, 
+        "name": "Machamp", 
+        "charge_moves": [
+            "HEAVY_SLAM", 
+            "DYNAMIC_PUNCH", 
+            "CLOSE_COMBAT"
+        ], 
+        "quick_moves": [
+            "BULLET_PUNCH_FAST", 
+            "COUNTER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 69, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 61, 
+            "base_attack": 139
+        }, 
+        "name": "Bellsprout", 
+        "charge_moves": [
+            "POWER_WHIP", 
+            "SLUDGE_BOMB", 
+            "WRAP"
+        ], 
+        "quick_moves": [
+            "VINE_WHIP_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 70, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 92, 
+            "base_attack": 172
+        }, 
+        "name": "Weepinbell", 
+        "charge_moves": [
+            "POWER_WHIP", 
+            "SLUDGE_BOMB", 
+            "SEED_BOMB"
+        ], 
+        "quick_moves": [
+            "BULLET_SEED_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 71, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 135, 
+            "base_attack": 207
+        }, 
+        "name": "Victreebel", 
+        "charge_moves": [
+            "LEAF_BLADE", 
+            "SLUDGE_BOMB", 
+            "SOLAR_BEAM"
+        ], 
+        "quick_moves": [
+            "RAZOR_LEAF_FAST", 
+            "ACID_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 72, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 149, 
+            "base_attack": 97
+        }, 
+        "name": "Tentacool", 
+        "charge_moves": [
+            "BUBBLE_BEAM", 
+            "WATER_PULSE", 
+            "WRAP"
+        ], 
+        "quick_moves": [
+            "BUBBLE_FAST", 
+            "POISON_STING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 73, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 209, 
+            "base_attack": 166
+        }, 
+        "name": "Tentacruel", 
+        "charge_moves": [
+            "HYDRO_PUMP", 
+            "SLUDGE_WAVE", 
+            "BLIZZARD"
+        ], 
+        "quick_moves": [
+            "ACID_FAST", 
+            "POISON_JAB_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 74, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 132, 
+            "base_attack": 132
+        }, 
+        "name": "Geodude", 
+        "charge_moves": [
+            "ROCK_SLIDE", 
+            "ROCK_TOMB", 
+            "DIG"
+        ], 
+        "quick_moves": [
+            "ROCK_THROW_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 75, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 164, 
+            "base_attack": 164
+        }, 
+        "name": "Graveler", 
+        "charge_moves": [
+            "DIG", 
+            "STONE_EDGE", 
+            "ROCK_BLAST"
+        ], 
+        "quick_moves": [
+            "ROCK_THROW_FAST", 
+            "MUD_SLAP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 76, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 198, 
+            "base_attack": 211
+        }, 
+        "name": "Golem", 
+        "charge_moves": [
+            "STONE_EDGE", 
+            "ROCK_BLAST", 
+            "EARTHQUAKE"
+        ], 
+        "quick_moves": [
+            "ROCK_THROW_FAST", 
+            "MUD_SLAP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 77, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 127, 
+            "base_attack": 170
+        }, 
+        "name": "Ponyta", 
+        "charge_moves": [
+            "FLAME_CHARGE", 
+            "FLAME_WHEEL", 
+            "STOMP"
+        ], 
+        "quick_moves": [
+            "TACKLE_FAST", 
+            "EMBER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 78, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 162, 
+            "base_attack": 207
+        }, 
+        "name": "Rapidash", 
+        "charge_moves": [
+            "FIRE_BLAST", 
+            "DRILL_RUN", 
+            "HEAT_WAVE"
+        ], 
+        "quick_moves": [
+            "LOW_KICK_FAST", 
+            "FIRE_SPIN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 79, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 98, 
+            "base_attack": 109
+        }, 
+        "name": "Slowpoke", 
+        "charge_moves": [
+            "WATER_PULSE", 
+            "PSYSHOCK", 
+            "PSYCHIC"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 80, 
+        "stats": {
+            "base_stamina": 216, 
+            "base_defense": 180, 
+            "base_attack": 177
+        }, 
+        "name": "Slowbro", 
+        "charge_moves": [
+            "WATER_PULSE", 
+            "PSYCHIC", 
+            "ICE_BEAM"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 81, 
+        "stats": {
+            "base_stamina": 93, 
+            "base_defense": 121, 
+            "base_attack": 165
+        }, 
+        "name": "Magnemite", 
+        "charge_moves": [
+            "DISCHARGE", 
+            "MAGNET_BOMB", 
+            "THUNDERBOLT"
+        ], 
+        "quick_moves": [
+            "SPARK_FAST", 
+            "THUNDER_SHOCK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC", 
+            "POKEMON_TYPE_STEEL"
+        ]
+    }, 
+    {
+        "dex": 82, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 169, 
+            "base_attack": 223
+        }, 
+        "name": "Magneton", 
+        "charge_moves": [
+            "ZAP_CANNON", 
+            "MAGNET_BOMB", 
+            "FLASH_CANNON"
+        ], 
+        "quick_moves": [
+            "SPARK_FAST", 
+            "CHARGE_BEAM_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC", 
+            "POKEMON_TYPE_STEEL"
+        ]
+    }, 
+    {
+        "dex": 83, 
+        "stats": {
+            "base_stamina": 141, 
+            "base_defense": 115, 
+            "base_attack": 124
+        }, 
+        "name": "Farfetch'd", 
+        "charge_moves": [
+            "AERIAL_ACE", 
+            "AIR_CUTTER", 
+            "LEAF_BLADE"
+        ], 
+        "quick_moves": [
+            "AIR_SLASH_FAST", 
+            "FURY_CUTTER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 84, 
+        "stats": {
+            "base_stamina": 111, 
+            "base_defense": 83, 
+            "base_attack": 158
+        }, 
+        "name": "Doduo", 
+        "charge_moves": [
+            "DRILL_PECK", 
+            "AERIAL_ACE", 
+            "BRAVE_BIRD"
+        ], 
+        "quick_moves": [
+            "PECK_FAST", 
+            "QUICK_ATTACK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 85, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 140, 
+            "base_attack": 218
+        }, 
+        "name": "Dodrio", 
+        "charge_moves": [
+            "DRILL_PECK", 
+            "AERIAL_ACE", 
+            "BRAVE_BIRD"
+        ], 
+        "quick_moves": [
+            "FEINT_ATTACK_FAST", 
+            "STEEL_WING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 86, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 121, 
+            "base_attack": 85
+        }, 
+        "name": "Seel", 
+        "charge_moves": [
+            "AURORA_BEAM", 
+            "ICY_WIND", 
+            "AQUA_TAIL"
+        ], 
+        "quick_moves": [
+            "ICE_SHARD_FAST", 
+            "LICK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 87, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 177, 
+            "base_attack": 139
+        }, 
+        "name": "Dewgong", 
+        "charge_moves": [
+            "AURORA_BEAM", 
+            "WATER_PULSE", 
+            "BLIZZARD"
+        ], 
+        "quick_moves": [
+            "FROST_BREATH_FAST", 
+            "IRON_TAIL_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_ICE"
+        ]
+    }, 
+    {
+        "dex": 88, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 90, 
+            "base_attack": 135
+        }, 
+        "name": "Grimer", 
+        "charge_moves": [
+            "SLUDGE", 
+            "MUD_BOMB", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "POISON_JAB_FAST", 
+            "MUD_SLAP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 89, 
+        "stats": {
+            "base_stamina": 233, 
+            "base_defense": 172, 
+            "base_attack": 190
+        }, 
+        "name": "Muk", 
+        "charge_moves": [
+            "DARK_PULSE", 
+            "GUNK_SHOT", 
+            "SLUDGE_WAVE"
+        ], 
+        "quick_moves": [
+            "INFESTATION_FAST", 
+            "POISON_JAB_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 90, 
+        "stats": {
+            "base_stamina": 102, 
+            "base_defense": 134, 
+            "base_attack": 116
+        }, 
+        "name": "Shellder", 
+        "charge_moves": [
+            "BUBBLE_BEAM", 
+            "WATER_PULSE", 
+            "ICY_WIND"
+        ], 
+        "quick_moves": [
+            "ICE_SHARD_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 91, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 256, 
+            "base_attack": 186
+        }, 
+        "name": "Cloyster", 
+        "charge_moves": [
+            "AURORA_BEAM", 
+            "HYDRO_PUMP", 
+            "AVALANCHE"
+        ], 
+        "quick_moves": [
+            "FROST_BREATH_FAST", 
+            "ICE_SHARD_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_ICE"
+        ]
+    }, 
+    {
+        "dex": 92, 
+        "stats": {
+            "base_stamina": 102, 
+            "base_defense": 67, 
+            "base_attack": 186
+        }, 
+        "name": "Gastly", 
+        "charge_moves": [
+            "NIGHT_SHADE", 
+            "DARK_PULSE", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "LICK_FAST", 
+            "ASTONISH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GHOST", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 93, 
+        "stats": {
+            "base_stamina": 128, 
+            "base_defense": 107, 
+            "base_attack": 223
+        }, 
+        "name": "Haunter", 
+        "charge_moves": [
+            "SHADOW_PUNCH", 
+            "DARK_PULSE", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "SHADOW_CLAW_FAST", 
+            "ASTONISH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GHOST", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 94, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 149, 
+            "base_attack": 261
+        }, 
+        "name": "Gengar", 
+        "charge_moves": [
+            "SHADOW_BALL", 
+            "FOCUS_BLAST", 
+            "SLUDGE_BOMB"
+        ], 
+        "quick_moves": [
+            "SUCKER_PUNCH_FAST", 
+            "HEX_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GHOST", 
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 95, 
+        "stats": {
+            "base_stamina": 111, 
+            "base_defense": 232, 
+            "base_attack": 85
+        }, 
+        "name": "Onix", 
+        "charge_moves": [
+            "SAND_TOMB", 
+            "STONE_EDGE", 
+            "HEAVY_SLAM"
+        ], 
+        "quick_moves": [
+            "ROCK_THROW_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 96, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 136, 
+            "base_attack": 89
+        }, 
+        "name": "Drowzee", 
+        "charge_moves": [
+            "PSYBEAM", 
+            "PSYSHOCK", 
+            "PSYCHIC"
+        ], 
+        "quick_moves": [
+            "POUND_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 97, 
+        "stats": {
+            "base_stamina": 198, 
+            "base_defense": 193, 
+            "base_attack": 144
+        }, 
+        "name": "Hypno", 
+        "charge_moves": [
+            "FUTURESIGHT", 
+            "PSYCHIC", 
+            "FOCUS_BLAST"
+        ], 
+        "quick_moves": [
+            "ZEN_HEADBUTT_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 98, 
+        "stats": {
+            "base_stamina": 102, 
+            "base_defense": 124, 
+            "base_attack": 181
+        }, 
+        "name": "Krabby", 
+        "charge_moves": [
+            "VICE_GRIP", 
+            "BUBBLE_BEAM", 
+            "WATER_PULSE"
+        ], 
+        "quick_moves": [
+            "BUBBLE_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 99, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 181, 
+            "base_attack": 240
+        }, 
+        "name": "Kingler", 
+        "charge_moves": [
+            "VICE_GRIP", 
+            "X_SCISSOR", 
+            "WATER_PULSE"
+        ], 
+        "quick_moves": [
+            "BUBBLE_FAST", 
+            "METAL_CLAW_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 100, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 111, 
+            "base_attack": 109
+        }, 
+        "name": "Voltorb", 
+        "charge_moves": [
+            "DISCHARGE", 
+            "THUNDERBOLT", 
+            "GYRO_BALL"
+        ], 
+        "quick_moves": [
+            "SPARK_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC"
+        ]
+    }, 
+    {
+        "dex": 101, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 173, 
+            "base_attack": 173
+        }, 
+        "name": "Electrode", 
+        "charge_moves": [
+            "DISCHARGE", 
+            "THUNDERBOLT", 
+            "HYPER_BEAM"
+        ], 
+        "quick_moves": [
+            "SPARK_FAST", 
+            "VOLT_SWITCH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC"
+        ]
+    }, 
+    {
+        "dex": 102, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 125, 
+            "base_attack": 107
+        }, 
+        "name": "Exeggcute", 
+        "charge_moves": [
+            "SEED_BOMB", 
+            "PSYCHIC", 
+            "ANCIENT_POWER"
+        ], 
+        "quick_moves": [
+            "CONFUSION_FAST", 
+            "BULLET_SEED_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 103, 
+        "stats": {
+            "base_stamina": 216, 
+            "base_defense": 149, 
+            "base_attack": 233
+        }, 
+        "name": "Exeggutor", 
+        "charge_moves": [
+            "SEED_BOMB", 
+            "PSYCHIC", 
+            "SOLAR_BEAM"
+        ], 
+        "quick_moves": [
+            "BULLET_SEED_FAST", 
+            "EXTRASENSORY_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS", 
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 104, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 144, 
+            "base_attack": 90
+        }, 
+        "name": "Cubone", 
+        "charge_moves": [
+            "BONE_CLUB", 
+            "DIG", 
+            "BULLDOZE"
+        ], 
+        "quick_moves": [
+            "MUD_SLAP_FAST", 
+            "ROCK_SMASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 105, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 186, 
+            "base_attack": 144
+        }, 
+        "name": "Marowak", 
+        "charge_moves": [
+            "BONE_CLUB", 
+            "DIG", 
+            "EARTHQUAKE"
+        ], 
+        "quick_moves": [
+            "MUD_SLAP_FAST", 
+            "ROCK_SMASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND"
+        ]
+    }, 
+    {
+        "dex": 106, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 181, 
+            "base_attack": 224
+        }, 
+        "name": "Hitmonlee", 
+        "charge_moves": [
+            "CLOSE_COMBAT", 
+            "LOW_SWEEP", 
+            "STONE_EDGE"
+        ], 
+        "quick_moves": [
+            "LOW_KICK_FAST", 
+            "ROCK_SMASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 107, 
+        "stats": {
+            "base_stamina": 137, 
+            "base_defense": 197, 
+            "base_attack": 193
+        }, 
+        "name": "Hitmonchan", 
+        "charge_moves": [
+            "FIRE_PUNCH", 
+            "ICE_PUNCH", 
+            "THUNDER_PUNCH", 
+            "CLOSE_COMBAT"
+        ], 
+        "quick_moves": [
+            "BULLET_PUNCH_FAST", 
+            "COUNTER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIGHTING"
+        ]
+    }, 
+    {
+        "dex": 108, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 137, 
+            "base_attack": 108
+        }, 
+        "name": "Lickitung", 
+        "charge_moves": [
+            "HYPER_BEAM", 
+            "STOMP", 
+            "POWER_WHIP"
+        ], 
+        "quick_moves": [
+            "LICK_FAST", 
+            "ZEN_HEADBUTT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 109, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 141, 
+            "base_attack": 119
+        }, 
+        "name": "Koffing", 
+        "charge_moves": [
+            "SLUDGE", 
+            "SLUDGE_BOMB", 
+            "DARK_PULSE"
+        ], 
+        "quick_moves": [
+            "TACKLE_FAST", 
+            "INFESTATION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 110, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 197, 
+            "base_attack": 174
+        }, 
+        "name": "Weezing", 
+        "charge_moves": [
+            "SLUDGE_BOMB", 
+            "SHADOW_BALL", 
+            "DARK_PULSE"
+        ], 
+        "quick_moves": [
+            "TACKLE_FAST", 
+            "INFESTATION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_POISON"
+        ]
+    }, 
+    {
+        "dex": 111, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 127, 
+            "base_attack": 140
+        }, 
+        "name": "Rhyhorn", 
+        "charge_moves": [
+            "BULLDOZE", 
+            "HORN_ATTACK", 
+            "STOMP"
+        ], 
+        "quick_moves": [
+            "MUD_SLAP_FAST", 
+            "ROCK_SMASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND", 
+            "POKEMON_TYPE_ROCK"
+        ]
+    }, 
+    {
+        "dex": 112, 
+        "stats": {
+            "base_stamina": 233, 
+            "base_defense": 171, 
+            "base_attack": 222
+        }, 
+        "name": "Rhydon", 
+        "charge_moves": [
+            "SURF", 
+            "EARTHQUAKE", 
+            "STONE_EDGE"
+        ], 
+        "quick_moves": [
+            "MUD_SLAP_FAST", 
+            "ROCK_SMASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GROUND", 
+            "POKEMON_TYPE_ROCK"
+        ]
+    }, 
+    {
+        "dex": 113, 
+        "stats": {
+            "base_stamina": 487, 
+            "base_defense": 128, 
+            "base_attack": 60
+        }, 
+        "name": "Chansey", 
+        "charge_moves": [
+            "PSYCHIC", 
+            "HYPER_BEAM", 
+            "DAZZLING_GLEAM"
+        ], 
+        "quick_moves": [
+            "POUND_FAST", 
+            "ZEN_HEADBUTT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 114, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 169, 
+            "base_attack": 183
+        }, 
+        "name": "Tangela", 
+        "charge_moves": [
+            "GRASS_KNOT", 
+            "SLUDGE_BOMB", 
+            "SOLAR_BEAM"
+        ], 
+        "quick_moves": [
+            "VINE_WHIP_FAST", 
+            "INFESTATION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_GRASS"
+        ]
+    }, 
+    {
+        "dex": 115, 
+        "stats": {
+            "base_stamina": 233, 
+            "base_defense": 165, 
+            "base_attack": 181
+        }, 
+        "name": "Kangaskhan", 
+        "charge_moves": [
+            "CRUNCH", 
+            "EARTHQUAKE", 
+            "OUTRAGE"
+        ], 
+        "quick_moves": [
+            "MUD_SLAP_FAST", 
+            "LOW_KICK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 116, 
+        "stats": {
+            "base_stamina": 102, 
+            "base_defense": 103, 
+            "base_attack": 129
+        }, 
+        "name": "Horsea", 
+        "charge_moves": [
+            "BUBBLE_BEAM", 
+            "DRAGON_PULSE", 
+            "FLASH_CANNON"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "BUBBLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 117, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 156, 
+            "base_attack": 187
+        }, 
+        "name": "Seadra", 
+        "charge_moves": [
+            "AURORA_BEAM", 
+            "DRAGON_PULSE", 
+            "HYDRO_PUMP"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "DRAGON_BREATH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 118, 
+        "stats": {
+            "base_stamina": 128, 
+            "base_defense": 110, 
+            "base_attack": 123
+        }, 
+        "name": "Goldeen", 
+        "charge_moves": [
+            "WATER_PULSE", 
+            "HORN_ATTACK", 
+            "AQUA_TAIL"
+        ], 
+        "quick_moves": [
+            "PECK_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 119, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 147, 
+            "base_attack": 175
+        }, 
+        "name": "Seaking", 
+        "charge_moves": [
+            "ICE_BEAM", 
+            "WATER_PULSE", 
+            "MEGAHORN"
+        ], 
+        "quick_moves": [
+            "PECK_FAST", 
+            "WATERFALL_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 120, 
+        "stats": {
+            "base_stamina": 102, 
+            "base_defense": 112, 
+            "base_attack": 137
+        }, 
+        "name": "Staryu", 
+        "charge_moves": [
+            "SWIFT", 
+            "BUBBLE_BEAM", 
+            "POWER_GEM"
+        ], 
+        "quick_moves": [
+            "TACKLE_FAST", 
+            "WATER_GUN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 121, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 184, 
+            "base_attack": 210
+        }, 
+        "name": "Starmie", 
+        "charge_moves": [
+            "HYDRO_PUMP", 
+            "POWER_GEM", 
+            "PSYCHIC"
+        ], 
+        "quick_moves": [
+            "HIDDEN_POWER_FAST", 
+            "WATER_GUN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 122, 
+        "stats": {
+            "base_stamina": 120, 
+            "base_defense": 205, 
+            "base_attack": 192
+        }, 
+        "name": "Mr. Mime", 
+        "charge_moves": [
+            "PSYBEAM", 
+            "PSYCHIC", 
+            "SHADOW_BALL"
+        ], 
+        "quick_moves": [
+            "CONFUSION_FAST", 
+            "ZEN_HEADBUTT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_PSYCHIC", 
+            "POKEMON_TYPE_FAIRY"
+        ]
+    }, 
+    {
+        "dex": 123, 
+        "stats": {
+            "base_stamina": 172, 
+            "base_defense": 170, 
+            "base_attack": 218
+        }, 
+        "name": "Scyther", 
+        "charge_moves": [
+            "NIGHT_SLASH", 
+            "X_SCISSOR", 
+            "AERIAL_ACE"
+        ], 
+        "quick_moves": [
+            "FURY_CUTTER_FAST", 
+            "AIR_SLASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 124, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 151, 
+            "base_attack": 223
+        }, 
+        "name": "Jynx", 
+        "charge_moves": [
+            "DRAINING_KISS", 
+            "AVALANCHE", 
+            "PSYSHOCK"
+        ], 
+        "quick_moves": [
+            "FROST_BREATH_FAST", 
+            "CONFUSION_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ICE", 
+            "POKEMON_TYPE_PSYCHIC"
+        ]
+    }, 
+    {
+        "dex": 125, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 158, 
+            "base_attack": 198
+        }, 
+        "name": "Electabuzz", 
+        "charge_moves": [
+            "THUNDER_PUNCH", 
+            "THUNDERBOLT", 
+            "THUNDER"
+        ], 
+        "quick_moves": [
+            "THUNDER_SHOCK_FAST", 
+            "LOW_KICK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC"
+        ]
+    }, 
+    {
+        "dex": 126, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 154, 
+            "base_attack": 206
+        }, 
+        "name": "Magmar", 
+        "charge_moves": [
+            "FIRE_BLAST", 
+            "FIRE_PUNCH", 
+            "FLAMETHROWER"
+        ], 
+        "quick_moves": [
+            "EMBER_FAST", 
+            "KARATE_CHOP_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 127, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 182, 
+            "base_attack": 238
+        }, 
+        "name": "Pinsir", 
+        "charge_moves": [
+            "VICE_GRIP", 
+            "X_SCISSOR", 
+            "CLOSE_COMBAT"
+        ], 
+        "quick_moves": [
+            "ROCK_SMASH_FAST", 
+            "BUG_BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_BUG"
+        ]
+    }, 
+    {
+        "dex": 128, 
+        "stats": {
+            "base_stamina": 181, 
+            "base_defense": 183, 
+            "base_attack": 198
+        }, 
+        "name": "Tauros", 
+        "charge_moves": [
+            "HORN_ATTACK", 
+            "IRON_HEAD", 
+            "EARTHQUAKE"
+        ], 
+        "quick_moves": [
+            "TACKLE_FAST", 
+            "ZEN_HEADBUTT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 130, 
+        "stats": {
+            "base_stamina": 216, 
+            "base_defense": 186, 
+            "base_attack": 237
+        }, 
+        "name": "Gyarados", 
+        "charge_moves": [
+            "HYDRO_PUMP", 
+            "CRUNCH", 
+            "OUTRAGE"
+        ], 
+        "quick_moves": [
+            "BITE_FAST", 
+            "WATERFALL_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 131, 
+        "stats": {
+            "base_stamina": 277, 
+            "base_defense": 174, 
+            "base_attack": 165
+        }, 
+        "name": "Lapras", 
+        "charge_moves": [
+            "HYDRO_PUMP", 
+            "SURF", 
+            "BLIZZARD"
+        ], 
+        "quick_moves": [
+            "FROST_BREATH_FAST", 
+            "WATER_GUN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER", 
+            "POKEMON_TYPE_ICE"
+        ]
+    }, 
+    {
+        "dex": 133, 
+        "stats": {
+            "base_stamina": 146, 
+            "base_defense": 114, 
+            "base_attack": 104
+        }, 
+        "name": "Eevee", 
+        "charge_moves": [
+            "DIG", 
+            "SWIFT"
+        ], 
+        "quick_moves": [
+            "QUICK_ATTACK_FAST", 
+            "TACKLE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 134, 
+        "stats": {
+            "base_stamina": 277, 
+            "base_defense": 161, 
+            "base_attack": 205
+        }, 
+        "name": "Vaporeon", 
+        "charge_moves": [
+            "WATER_PULSE", 
+            "HYDRO_PUMP", 
+            "AQUA_TAIL"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 135, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 182, 
+            "base_attack": 232
+        }, 
+        "name": "Jolteon", 
+        "charge_moves": [
+            "DISCHARGE", 
+            "THUNDERBOLT", 
+            "THUNDER"
+        ], 
+        "quick_moves": [
+            "THUNDER_SHOCK_FAST", 
+            "VOLT_SWITCH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC"
+        ]
+    }, 
+    {
+        "dex": 136, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 179, 
+            "base_attack": 246
+        }, 
+        "name": "Flareon", 
+        "charge_moves": [
+            "FIRE_BLAST", 
+            "FLAMETHROWER", 
+            "OVERHEAT"
+        ], 
+        "quick_moves": [
+            "EMBER_FAST", 
+            "FIRE_SPIN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE"
+        ]
+    }, 
+    {
+        "dex": 137, 
+        "stats": {
+            "base_stamina": 163, 
+            "base_defense": 136, 
+            "base_attack": 153
+        }, 
+        "name": "Porygon", 
+        "charge_moves": [
+            "SOLAR_BEAM", 
+            "HYPER_BEAM", 
+            "ZAP_CANNON"
+        ], 
+        "quick_moves": [
+            "CHARGE_BEAM_FAST", 
+            "HIDDEN_POWER_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 138, 
+        "stats": {
+            "base_stamina": 111, 
+            "base_defense": 153, 
+            "base_attack": 155
+        }, 
+        "name": "Omanyte", 
+        "charge_moves": [
+            "ANCIENT_POWER", 
+            "BUBBLE_BEAM", 
+            "ROCK_BLAST"
+        ], 
+        "quick_moves": [
+            "WATER_GUN_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 139, 
+        "stats": {
+            "base_stamina": 172, 
+            "base_defense": 201, 
+            "base_attack": 207
+        }, 
+        "name": "Omastar", 
+        "charge_moves": [
+            "ANCIENT_POWER", 
+            "HYDRO_PUMP", 
+            "ROCK_BLAST"
+        ], 
+        "quick_moves": [
+            "MUD_SHOT_FAST", 
+            "WATER_GUN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 140, 
+        "stats": {
+            "base_stamina": 102, 
+            "base_defense": 140, 
+            "base_attack": 148
+        }, 
+        "name": "Kabuto", 
+        "charge_moves": [
+            "ANCIENT_POWER", 
+            "AQUA_JET", 
+            "ROCK_TOMB"
+        ], 
+        "quick_moves": [
+            "SCRATCH_FAST", 
+            "MUD_SHOT_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 141, 
+        "stats": {
+            "base_stamina": 155, 
+            "base_defense": 186, 
+            "base_attack": 220
+        }, 
+        "name": "Kabutops", 
+        "charge_moves": [
+            "ANCIENT_POWER", 
+            "WATER_PULSE", 
+            "STONE_EDGE"
+        ], 
+        "quick_moves": [
+            "MUD_SHOT_FAST", 
+            "ROCK_SMASH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_WATER"
+        ]
+    }, 
+    {
+        "dex": 142, 
+        "stats": {
+            "base_stamina": 190, 
+            "base_defense": 159, 
+            "base_attack": 221
+        }, 
+        "name": "Aerodactyl", 
+        "charge_moves": [
+            "ANCIENT_POWER", 
+            "IRON_HEAD", 
+            "HYPER_BEAM"
+        ], 
+        "quick_moves": [
+            "STEEL_WING_FAST", 
+            "BITE_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ROCK", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 143, 
+        "stats": {
+            "base_stamina": 330, 
+            "base_defense": 169, 
+            "base_attack": 190
+        }, 
+        "name": "Snorlax", 
+        "charge_moves": [
+            "HEAVY_SLAM", 
+            "HYPER_BEAM", 
+            "EARTHQUAKE"
+        ], 
+        "quick_moves": [
+            "ZEN_HEADBUTT_FAST", 
+            "LICK_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_NORMAL"
+        ]
+    }, 
+    {
+        "dex": 144, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 236, 
+            "base_attack": 192
+        }, 
+        "name": "Articuno", 
+        "charge_moves": [
+            "ICE_BEAM", 
+            "ICY_WIND", 
+            "BLIZZARD"
+        ], 
+        "quick_moves": [
+            "FROST_BREATH_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ICE", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 145, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 185, 
+            "base_attack": 253
+        }, 
+        "name": "Zapdos", 
+        "charge_moves": [
+            "ZAP_CANNON", 
+            "THUNDERBOLT", 
+            "THUNDER"
+        ], 
+        "quick_moves": [
+            "CHARGE_BEAM_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_ELECTRIC", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 146, 
+        "stats": {
+            "base_stamina": 207, 
+            "base_defense": 181, 
+            "base_attack": 251
+        }, 
+        "name": "Moltres", 
+        "charge_moves": [
+            "FIRE_BLAST", 
+            "HEAT_WAVE", 
+            "OVERHEAT"
+        ], 
+        "quick_moves": [
+            "FIRE_SPIN_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_FIRE", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }, 
+    {
+        "dex": 147, 
+        "stats": {
+            "base_stamina": 121, 
+            "base_defense": 91, 
+            "base_attack": 119
+        }, 
+        "name": "Dratini", 
+        "charge_moves": [
+            "WRAP", 
+            "TWISTER", 
+            "AQUA_TAIL"
+        ], 
+        "quick_moves": [
+            "DRAGON_BREATH_FAST", 
+            "IRON_TAIL_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_DRAGON"
+        ]
+    }, 
+    {
+        "dex": 148, 
+        "stats": {
+            "base_stamina": 156, 
+            "base_defense": 135, 
+            "base_attack": 163
+        }, 
+        "name": "Dragonair", 
+        "charge_moves": [
+            "WRAP", 
+            "AQUA_TAIL", 
+            "DRAGON_PULSE"
+        ], 
+        "quick_moves": [
+            "DRAGON_BREATH_FAST", 
+            "IRON_TAIL_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_DRAGON"
+        ]
+    }, 
+    {
+        "dex": 149, 
+        "stats": {
+            "base_stamina": 209, 
+            "base_defense": 198, 
+            "base_attack": 263
+        }, 
+        "name": "Dragonite", 
+        "charge_moves": [
+            "HURRICANE", 
+            "HYPER_BEAM", 
+            "OUTRAGE"
+        ], 
+        "quick_moves": [
+            "DRAGON_TAIL_FAST", 
+            "STEEL_WING_FAST"
+        ], 
+        "types": [
+            "POKEMON_TYPE_DRAGON", 
+            "POKEMON_TYPE_FLYING"
+        ]
+    }
+]
