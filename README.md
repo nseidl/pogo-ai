@@ -1,3 +1,12 @@
+# POGO AI
+The final project for the AI/ML course (CS 4100) at Northeastern.
+
+Given a set of six defending Pokemon, determine the optimal set of six attacking Pokemon.
+
+Greedy Best First Search and Monte Carlo Tree Search were implemented to solve this problem.
+
+Please see `writing/project.pdf` for the final version of the paper.
+
 #### JSON Structures
 - **Pokemon**
     ```json
